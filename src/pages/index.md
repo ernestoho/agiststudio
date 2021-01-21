@@ -20,7 +20,7 @@ sections:
     subtitle: Un socio experto para su negocio en linea.
     features:
       - title: The Best Feature of Your Services
-        image: images/black-bg-partner-badge.png
+        image: images/info1.png
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
