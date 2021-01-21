@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Servicios
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Un socio experto para su negocio en linea.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
