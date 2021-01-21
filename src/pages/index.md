@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Messaging Marketing
+    title: AUMENTE SUS VENTAS CON CHAT
     content: >
       Los consumidores ya intercambian millones de mensajes con las empresas
       todos los días. ¿Está su equipo de ventas preparado para la revolución?
