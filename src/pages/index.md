@@ -10,7 +10,7 @@ sections:
       Los consumidores ya intercambian millones de mensajes con las empresas
       todos los días. ¿Está su equipo de ventas preparado para la revolución?
     actions:
-      - label: Learn More
+      - label: Mas Informacion
         url: /features
         style: primary
   - section_id: features
