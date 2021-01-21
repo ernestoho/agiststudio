@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Messaging Marketing
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Los consumidores ya intercambian millones de mensajes con las empresas
+      todos los días. ¿Está su equipo de ventas preparado para la revolución?
     actions:
       - label: Learn More
         url: /features
