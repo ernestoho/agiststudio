@@ -22,10 +22,10 @@ sections:
       - title: amoCRM Cuentas y Configuraciones
         image: images/pleasant-zebra.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          ¿Cansado de lidiar con puntos incómodos que le impiden tener éxito?
+          Como socio podemos ayudarle a integrar amoCRM, crear nuevos flujos de
+          trabajo y más..
         actions:
           - label: Learn More
             url: /features
