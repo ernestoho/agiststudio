@@ -52,8 +52,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          Configuración y optimizacion de anuncios en redes sociales, Facebook
-          Ads, Instagram Ads, Google SEO y más.
+          Creación y optimizacion de anuncios en redes sociales, Facebook Ads,
+          Instagram Ads, Google SEO y más.
         actions:
           - label: Learn More
             url: /features
