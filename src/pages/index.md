@@ -37,8 +37,10 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          Configuración de anuncios en redes sociales, Facebook Ads, Instagram
-          Ads, Google SEO y más.
+          Puede identificar el progreso de cada prospecto, obtener una vista
+          previa del estado de su tarea y una visión general del estado general
+          de las ventas. manteniendo a todo el equipo organizado y enfocado en
+          alcanzar sus objetivos..
         actions:
           - label: Learn More
             url: /features
