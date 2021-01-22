@@ -65,9 +65,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonios
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: Nuestros clientes felices nos recomiendan.
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
