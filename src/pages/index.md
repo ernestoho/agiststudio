@@ -96,6 +96,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: AgistStudio
-meta_description: The preview of the Azimuth theme
+meta_description: 'AmoCRM '
 template: landing
 ---
