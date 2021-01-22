@@ -95,7 +95,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Agist
+meta_title: AgistStudio
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
