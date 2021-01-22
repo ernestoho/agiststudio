@@ -96,6 +96,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: AgistStudio
-meta_description: 'AmoCRM '
+meta_description: AmoCRM Partner
 template: landing
 ---
