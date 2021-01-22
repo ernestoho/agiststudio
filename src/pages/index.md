@@ -27,7 +27,7 @@ sections:
           Como socio podemos ayudarle a integrar amoCRM, crear nuevos flujos de
           trabajo y más..
         actions:
-          - label: Learn More
+          - label: Mas Info...
             url: /features
             style: secondary
             has_icon: true
