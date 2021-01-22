@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero2.png
     image_alt: App preview
-    title: AUMENTE SUS VENTAS CON MENSAJES
+    title: "CONDUZCA MÁS PROSPECTOS\_ A LAS VENTAS"
     content: >
       Los consumidores ya intercambian millones de mensajes con las empresas
       todos los días.  ¿Está su equipo de ventas preparado para la revolución?
