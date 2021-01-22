@@ -19,7 +19,7 @@ sections:
     title: Servicios
     subtitle: Un socio experto para su negocio en linea.
     features:
-      - title: The Best Feature of Your Services
+      - title: amoCRM Cuentas y Configuraciones
         image: images/pleasant-zebra.png
         image_alt: App preview on a phone and tablet
         content: >-
