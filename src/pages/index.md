@@ -33,7 +33,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Gestión De Los Embudos Fácil De Usar
+      - title: Consultoría de marketing
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
