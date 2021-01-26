@@ -92,6 +92,7 @@ sections:
         url: /signup
         style: primary
         has_icon: true
+        icon: instagram
   - section_id: recent-posts
     type: section_posts
     background: gray
