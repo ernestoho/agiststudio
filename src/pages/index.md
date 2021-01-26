@@ -91,6 +91,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+        has_icon: true
   - section_id: recent-posts
     type: section_posts
     background: gray
