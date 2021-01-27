@@ -144,5 +144,6 @@
             }
         ]
     },
-    "title": "AgistStudio"
+    "title": "AgistStudio",
+    "favicon": "images/ico_logo_agist.svg"
 }
